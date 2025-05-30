@@ -8,6 +8,3 @@ for i in range(1,N+1):
         print(f"{i} * {ii} = {i*ii}", end=", ")
 
 
-
-
-x
