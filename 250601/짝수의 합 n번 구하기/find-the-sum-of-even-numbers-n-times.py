@@ -23,4 +23,5 @@ for i in range(n):
         for V in range(a+1,b,2):
             count += V
         print(count)
-        count +=0
+        count =0
+    
